@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\backend.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|d:\\fpt\\term6\\backendsignalr\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79F26262-C301-4C25-AEC5-8127A4FA3479}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Backend\\Controller\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:02:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Backend\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:00:01.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backend.http",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-11T03:48:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductHub.cs",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Hubs\\ProductHub.cs",
+              "RelativeDocumentMoniker": "Backend\\Hubs\\ProductHub.cs",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Hubs\\ProductHub.cs",
+              "RelativeToolTip": "Backend\\Hubs\\ProductHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:48:06.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.Development.json",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T03:44:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T03:40:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:35:04.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Product.cs",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Models\\Product.cs",
+              "RelativeToolTip": "Backend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:00:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Backend.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj.Backup.tmp",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.csproj.Backup.tmp",
+              "RelativeToolTip": "Backend\\Backend.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-11T03:44:47.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "D:\\FPT\\Term6\\BackendSignalR\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T03:39:11.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

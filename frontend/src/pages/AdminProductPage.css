@@ -1,0 +1,12 @@
+.product-container {
+    display: flex;
+    justify-content: space-between; /* Giữ khoảng cách giữa tên sản phẩm và nút */
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-actions {
+    display: flex;
+    gap: 10px; /* Tạo khoảng cách giữa các button */
+}
